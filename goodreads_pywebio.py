@@ -1,5 +1,5 @@
 
-# A simple script to calculate BMI
+
 import pywebio
 from pywebio.input import input, FLOAT
 from pywebio.output import put_text, put_markdown
